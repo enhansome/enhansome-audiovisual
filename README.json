@@ -1,0 +1,337 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Lighting"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "QLC+",
+          "description": "QLC+ is a free and cross-platform software to control DMX or analog lighting systems like moving heads, dimmers, scanners etc. Source Code .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T16:30:48Z",
+            "owner": "mcallegari",
+            "repo": "qlcplus",
+            "stars": 1496
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xLights",
+          "description": "Meant for home Christmas light shows but is a great way to sync lights to music on a budget. Source Code .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T06:14:19Z",
+            "owner": "xLightsSequencer",
+            "repo": "xLights",
+            "stars": 745
+          }
+        }
+      ],
+      "title": "Lighting Software"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Audio"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ardour",
+          "description": "A full realtime audio recording and editing suite. Source Code .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T22:55:02Z",
+            "owner": "Ardour",
+            "repo": "ardour",
+            "stars": 5176
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Linux Show Player",
+          "description": "Free cue player designed for stage productions. Source Code .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T16:23:18Z",
+            "owner": "FrancescoCeruti",
+            "repo": "linux-show-player",
+            "stars": 301
+          }
+        }
+      ],
+      "title": "Audio Software"
+    },
+    {
+      "description": "See ebu/awesome-broadcasting.",
+      "items": [],
+      "title": "Video"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ontime",
+          "description": "Browser-based application that manages event rundowns, scheduling, and cueing. Plan, track your schedule, manage automation and cross-department show information in one place. .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T05:25:52Z",
+            "owner": "cpvalente",
+            "repo": "ontime",
+            "stars": 936
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Livescript",
+          "description": "Insert a musical/theatre-script from Google Docs and use this for a live \"autocue\" and scroller with everyone on the site. .",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2019-11-26T15:14:17Z",
+            "owner": "netlob",
+            "repo": "livescript",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "Timecode is a sequence of numeric codes generated at regular intervals by a timing synchronization system. Timecode is used in video production, show control and other applications which require temporal coordination or logging of recording or actions.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Timecode",
+          "description": "ArtNet and LTC timecode generator, made with Java. .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-03T01:10:43Z",
+            "owner": "MrExplode",
+            "repo": "ShowManager",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "M2Q",
+          "description": "Python application capable to trigger Chamsys Consoles/Software via MIDI for advanced synchronized shows. .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-07-17T09:55:36Z",
+            "owner": "lorenzofattori",
+            "repo": "M2Q-python",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TCgenerator",
+          "description": "Reaper time marker to GrandMA2 TC Generator. .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Tcl",
+            "last_commit": "2020-04-19T17:59:02Z",
+            "owner": "DimitriCroes",
+            "repo": "TCGenerator",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Time MIDI sender",
+          "description": "A free tool for sending time data to DasLight (via MIDI). .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-15T21:00:27Z",
+            "owner": "TheGreyDiamond",
+            "repo": "Time-MIDI-sender",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Timecode"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "meters.lv2",
+          "description": "meters.lv2 is a collection of audio-level meters with GUI in LV2 plugin format. .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-10T23:04:37Z",
+            "owner": "x42",
+            "repo": "meters.lv2",
+            "stars": 223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AES67 WebMeter",
+          "description": "Server that receives an AES67 audio stream and presents a webpage with meters. .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2020-02-17T17:37:47Z",
+            "owner": "zjstraus",
+            "repo": "AES67-WebMeter",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Monitoring"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Open Lighting Architecture",
+          "description": "A framework for lighting control information. Supports a range of protocols and over a dozen of USB devices. Source Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-18T23:27:04Z",
+            "owner": "OpenLightingProject",
+            "repo": "ola",
+            "stars": 746
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "node-dmx",
+          "description": "DMX controller library for Node.js. .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-28T19:00:43Z",
+            "owner": "node-dmx",
+            "repo": "dmx",
+            "stars": 322
+          }
+        }
+      ],
+      "title": "Libraries and frameworks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "artnet",
+          "description": "Node.js module that can be used to send ArtDMX packages to an Art-Net node. .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-10-02T05:41:21Z",
+            "owner": "hobbyquaker",
+            "repo": "artnet",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "artnet4j",
+          "description": "Art-Net library for Java and Processing. .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-04-24T18:23:52Z",
+            "owner": "cansik",
+            "repo": "artnet4j",
+            "stars": 110
+          }
+        }
+      ],
+      "title": "ArtNet Libraries"
+    },
+    {
+      "description": "See HARDWARE.md.",
+      "items": [],
+      "title": "Hardware"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tutorials"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MIDI Monster",
+          "description": "MIDIMonster is a universal control and translation tool. It can translate between many different protocols such as MIDI, Artnet, sACN and OSC. .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-06-24T15:37:50Z",
+            "owner": "cbdevnet",
+            "repo": "midimonster",
+            "stars": 601
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blender ArtNet",
+          "description": "Blender script to push ArtNet data to Evee lights. Runs at 30fps with Evee rendering in the viewport. .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-31T10:16:57Z",
+            "owner": "BryanCrotaz",
+            "repo": "blender-artnet",
+            "stars": 42
+          }
+        }
+      ],
+      "title": "Misc/other"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T11:31:14.121Z",
+    "original_repository": "stingalleman/awesome-audiovisual",
+    "original_repository_sha": "84cb175d4d7d54149fbc42932e6b243a603b47d3",
+    "enhanced_repository": "enhansome/enhansome-audiovisual",
+    "enhanced_repository_description": null,
+    "title": "Awesome Audiovisual with stars"
+  }
+}
