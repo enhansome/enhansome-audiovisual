@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T16:30:48Z",
+            "last_commit": "2026-08-13T19:18:41Z",
             "owner": "mcallegari",
             "repo": "qlcplus",
-            "stars": 1496
+            "stars": 1498
           }
         },
         {
@@ -30,10 +30,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T06:14:19Z",
+            "last_commit": "2026-08-14T06:11:12Z",
             "owner": "xLightsSequencer",
             "repo": "xLights",
-            "stars": 745
+            "stars": 746
           }
         }
       ],
@@ -55,10 +55,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T22:55:02Z",
+            "last_commit": "2026-08-13T23:44:09Z",
             "owner": "Ardour",
             "repo": "ardour",
-            "stars": 5176
+            "stars": 5180
           }
         },
         {
@@ -94,10 +94,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T05:25:52Z",
+            "last_commit": "2026-08-13T19:19:22Z",
             "owner": "cpvalente",
             "repo": "ontime",
-            "stars": 936
+            "stars": 939
           }
         },
         {
@@ -227,7 +227,7 @@
             "last_commit": "2026-06-18T23:27:04Z",
             "owner": "OpenLightingProject",
             "repo": "ola",
-            "stars": 746
+            "stars": 747
           }
         },
         {
@@ -327,7 +327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T11:31:14.121Z",
+    "last_updated": "2026-08-14T11:29:49.502Z",
     "original_repository": "stingalleman/awesome-audiovisual",
     "original_repository_sha": "84cb175d4d7d54149fbc42932e6b243a603b47d3",
     "enhanced_repository": "enhansome/enhansome-audiovisual",
