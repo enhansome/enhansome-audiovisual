@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T21:33:38Z",
+            "last_commit": "2026-08-16T10:42:01Z",
             "owner": "mcallegari",
             "repo": "qlcplus",
-            "stars": 1499
+            "stars": 1500
           }
         },
         {
@@ -55,10 +55,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T00:14:24Z",
+            "last_commit": "2026-08-16T09:08:40Z",
             "owner": "Ardour",
             "repo": "ardour",
-            "stars": 5184
+            "stars": 5185
           }
         },
         {
@@ -72,7 +72,7 @@
             "last_commit": "2026-08-08T16:23:18Z",
             "owner": "FrancescoCeruti",
             "repo": "linux-show-player",
-            "stars": 301
+            "stars": 302
           }
         }
       ],
@@ -94,7 +94,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T09:46:09Z",
+            "last_commit": "2026-08-16T09:37:51Z",
             "owner": "cpvalente",
             "repo": "ontime",
             "stars": 940
@@ -128,10 +128,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-03T01:10:43Z",
+            "last_commit": "2026-08-16T00:06:00Z",
             "owner": "MrExplode",
             "repo": "ShowManager",
-            "stars": 62
+            "stars": 63
           }
         },
         {
@@ -327,7 +327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T11:00:00.127Z",
+    "last_updated": "2026-08-16T11:00:31.755Z",
     "original_repository": "stingalleman/awesome-audiovisual",
     "original_repository_sha": "84cb175d4d7d54149fbc42932e6b243a603b47d3",
     "enhanced_repository": "enhansome/enhansome-audiovisual",
