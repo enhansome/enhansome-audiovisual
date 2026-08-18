@@ -30,7 +30,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-17T05:54:05Z",
+            "last_commit": "2026-08-18T05:42:56Z",
             "owner": "xLightsSequencer",
             "repo": "xLights",
             "stars": 746
@@ -58,7 +58,7 @@
             "last_commit": "2026-08-16T09:08:40Z",
             "owner": "Ardour",
             "repo": "ardour",
-            "stars": 5188
+            "stars": 5190
           }
         },
         {
@@ -94,7 +94,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T19:46:32Z",
+            "last_commit": "2026-08-17T19:04:38Z",
             "owner": "cpvalente",
             "repo": "ontime",
             "stars": 940
@@ -305,7 +305,7 @@
             "last_commit": "2024-06-24T15:37:50Z",
             "owner": "cbdevnet",
             "repo": "midimonster",
-            "stars": 601
+            "stars": 600
           }
         },
         {
@@ -327,7 +327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T11:04:20.107Z",
+    "last_updated": "2026-08-18T11:03:47.528Z",
     "original_repository": "stingalleman/awesome-audiovisual",
     "original_repository_sha": "84cb175d4d7d54149fbc42932e6b243a603b47d3",
     "enhanced_repository": "enhansome/enhansome-audiovisual",
