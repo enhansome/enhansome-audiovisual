@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 7885934,
                 "language": "C++",
-                "last_commit": "2026-08-19T11:17:41Z",
+                "last_commit": "2026-08-20T05:50:29Z",
                 "owner": "xLightsSequencer",
                 "repo": "xLights",
                 "stars": 746
@@ -57,7 +57,7 @@
                 "archived": false,
                 "id": 8757552,
                 "language": "C++",
-                "last_commit": "2026-08-19T11:50:03Z",
+                "last_commit": "2026-08-20T03:31:40Z",
                 "owner": "Ardour",
                 "repo": "ardour",
                 "stars": 5194
@@ -75,7 +75,7 @@
                 "last_commit": "2026-08-08T16:23:18Z",
                 "owner": "FrancescoCeruti",
                 "repo": "linux-show-player",
-                "stars": 303
+                "stars": 304
               }
             }
           ],
@@ -98,10 +98,10 @@
             "archived": false,
             "id": 351085488,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T11:31:16Z",
+            "last_commit": "2026-08-19T19:29:45Z",
             "owner": "cpvalente",
             "repo": "ontime",
-            "stars": 940
+            "stars": 943
           }
         },
         {
@@ -337,7 +337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:17:52.011Z",
+    "last_updated": "2026-08-20T11:04:58.638Z",
     "original_repository": "stingalleman/awesome-audiovisual",
     "original_repository_id": 255854661,
     "original_repository_sha": "84cb175d4d7d54149fbc42932e6b243a603b47d3",
