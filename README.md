@@ -36,8 +36,8 @@ Want to add something? Just make a pull request, but be sure to follow the [cont
 
 ### Lighting Software
 
-* [QLC+](https://www.qlcplus.org/) - QLC+ is a free and cross-platform software to control DMX or analog lighting systems like moving heads, dimmers, scanners etc. [Source Code](https://github.com/mcallegari/qlcplus) ⭐ 1,503 | 🐛 59 | 🌐 C++ | 📅 2026-08-18 `✓ open-source`.
-* [xLights](https://xlights.org/) - Meant for home Christmas light shows but is a great way to sync lights to music on a budget. [Source Code](https://github.com/smeighan/xLights) ⭐ 746 | 🐛 52 | 🌐 C++ | 📅 2026-08-20 `✓ open-source`.
+* [QLC+](https://www.qlcplus.org/) - QLC+ is a free and cross-platform software to control DMX or analog lighting systems like moving heads, dimmers, scanners etc. [Source Code](https://github.com/mcallegari/qlcplus) ⭐ 1,504 | 🐛 59 | 🌐 C++ | 📅 2026-08-18 `✓ open-source`.
+* [xLights](https://xlights.org/) - Meant for home Christmas light shows but is a great way to sync lights to music on a budget. [Source Code](https://github.com/smeighan/xLights) ⭐ 746 | 🐛 51 | 🌐 C++ | 📅 2026-08-21 `✓ open-source`.
 * [Avolites Titan](https://www.avolites.com/software/downloads/titan-pc-suite) - PC version of the Titan software which runs on the Avolites desk. Free to use until version 11.4 although it spits out random data once in a while. Requires a dongle from version 12. `⚠ not free`.
 * [Chamsys MagicQ](https://chamsyslighting.com/) - MagiQ is a professional lighting software providing up to 64 Artnet universes for free. It includes powerful features like 2D/3D pixel mapping, effect generator, media server and visualizer.
 * [Daslight](https://www.daslight.com/) - DMX lighting software for PC and Mac.
@@ -63,7 +63,7 @@ Want to add something? Just make a pull request, but be sure to follow the [cont
 
 ### Audio Software
 
-* [Ardour](https://ardour.org/) - A full realtime audio recording and editing suite. [Source Code](https://github.com/Ardour/ardour) ⭐ 5,194 | 🐛 44 | 🌐 C++ | 📅 2026-08-20 `✓ open-source`.
+* [Ardour](https://ardour.org/) - A full realtime audio recording and editing suite. [Source Code](https://github.com/Ardour/ardour) ⭐ 5,195 | 🐛 44 | 🌐 C++ | 📅 2026-08-20 `✓ open-source`.
 * [Linux Show Player](https://www.linux-show-player.org/) - Free cue player designed for stage productions. [Source Code](https://github.com/FrancescoCeruti/linux-show-player) ⭐ 304 | 🐛 83 | 🌐 Python | 📅 2026-08-08 `✓ open-source`.
 * [Audacity](https://www.audacityteam.org/) - Audio file editor and analysis tool, great for cropping down sound effects and music tracks. `✓ open-source`.
 * [da-Share MultiPlay](https://www.da-share.com/software/multiplay/) - MultiPlay is a Windows based program designed to play audio cues for theatre or corporate use. It is free to use.
@@ -176,11 +176,11 @@ See [HARDWARE.md](./HARDWARE.md).
 
 **[`^        back to top        ^`](#Contents)**
 
-* [MIDI Monster](https://github.com/cbdevnet/midimonster/) ⭐ 601 | 🐛 50 | 🌐 C | 📅 2024-06-24 - MIDIMonster is a universal control and translation tool. It can translate between many different protocols such as MIDI, Artnet, sACN and OSC. `✓ open-source`.
+* [MIDI Monster](https://github.com/cbdevnet/midimonster/) ⭐ 602 | 🐛 50 | 🌐 C | 📅 2024-06-24 - MIDIMonster is a universal control and translation tool. It can translate between many different protocols such as MIDI, Artnet, sACN and OSC. `✓ open-source`.
 * [Blender ArtNet](https://github.com/BryanCrotaz/blender-artnet) ⭐ 42 | 🐛 8 | 🌐 Python | 📅 2023-03-31 - Blender script to push ArtNet data to Evee lights. Runs at 30fps with Evee rendering in the viewport. `✓ open-source`.
 * [Linux](https://en.wikipedia.org/wiki/Linux) - A free operating system that can run on pretty much every kind of computer and is great for breathing new life into old computers that aren't supported by the newer Windows editions. There's tons of different distributions to choose from,. The most common one for general computer stuff is [Ubuntu](https://ubuntu.com/). `✓ open-source`.
 * [UsedLighting](https://www.usedlighting.com/) - Marketplace for buying/selling used lighting hardware.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
