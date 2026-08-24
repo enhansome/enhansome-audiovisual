@@ -36,8 +36,8 @@ Want to add something? Just make a pull request, but be sure to follow the [cont
 
 ### Lighting Software
 
-* [QLC+](https://www.qlcplus.org/) - QLC+ is a free and cross-platform software to control DMX or analog lighting systems like moving heads, dimmers, scanners etc. [Source Code](https://github.com/mcallegari/qlcplus) ⭐ 1,506 | 🐛 57 | 🌐 C++ | 📅 2026-08-22 `✓ open-source`.
-* [xLights](https://xlights.org/) - Meant for home Christmas light shows but is a great way to sync lights to music on a budget. [Source Code](https://github.com/smeighan/xLights) ⭐ 748 | 🐛 49 | 🌐 C++ | 📅 2026-08-23 `✓ open-source`.
+* [QLC+](https://www.qlcplus.org/) - QLC+ is a free and cross-platform software to control DMX or analog lighting systems like moving heads, dimmers, scanners etc. [Source Code](https://github.com/mcallegari/qlcplus) ⭐ 1,508 | 🐛 57 | 🌐 C++ | 📅 2026-08-22 `✓ open-source`.
+* [xLights](https://xlights.org/) - Meant for home Christmas light shows but is a great way to sync lights to music on a budget. [Source Code](https://github.com/smeighan/xLights) ⭐ 748 | 🐛 49 | 🌐 C++ | 📅 2026-08-24 `✓ open-source`.
 * [Avolites Titan](https://www.avolites.com/software/downloads/titan-pc-suite) - PC version of the Titan software which runs on the Avolites desk. Free to use until version 11.4 although it spits out random data once in a while. Requires a dongle from version 12. `⚠ not free`.
 * [Chamsys MagicQ](https://chamsyslighting.com/) - MagiQ is a professional lighting software providing up to 64 Artnet universes for free. It includes powerful features like 2D/3D pixel mapping, effect generator, media server and visualizer.
 * [Daslight](https://www.daslight.com/) - DMX lighting software for PC and Mac.
@@ -86,7 +86,7 @@ See [ebu/awesome-broadcasting](https://github.com/ebu/awesome-broadcasting#readm
 
 **[`^        back to top        ^`](#Contents)**
 
-* [Ontime](https://github.com/cpvalente/ontime) ⭐ 942 | 🐛 43 | 🌐 TypeScript | 📅 2026-08-22 - Browser-based application that manages event rundowns, scheduling, and cueing. Plan, track your schedule, manage automation and cross-department show information in one place. `✓ open-source`.
+* [Ontime](https://github.com/cpvalente/ontime) ⭐ 943 | 🐛 42 | 🌐 TypeScript | 📅 2026-08-23 - Browser-based application that manages event rundowns, scheduling, and cueing. Plan, track your schedule, manage automation and cross-department show information in one place. `✓ open-source`.
 * [Livescript](https://github.com/Netlob/livescript) ⚠️ Archived - Insert a musical/theatre-script from Google Docs and use this for a live "autocue" and scroller with everyone on the site. `✓ open-source`.
 * [Remove Audio](https://remove-audio.com) — Free, browser-based audio remover for video files. Uses WebAssembly for local processing, no uploads needed. Supports batch mode for up to 20 clips.
 * [RunCue](https://runcue.fly.dev/) - `⚠ not free` Browser-based timer for webinar producers with separate control, speaker, and audience links plus private cues.
@@ -183,4 +183,4 @@ See [HARDWARE.md](./HARDWARE.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
