@@ -63,7 +63,7 @@ Want to add something? Just make a pull request, but be sure to follow the [cont
 
 ### Audio Software
 
-* [Ardour](https://ardour.org/) - A full realtime audio recording and editing suite. [Source Code](https://github.com/Ardour/ardour) ⭐ 5,211 | 🐛 46 | 🌐 C++ | 📅 2026-08-20 `✓ open-source`.
+* [Ardour](https://ardour.org/) - A full realtime audio recording and editing suite. [Source Code](https://github.com/Ardour/ardour) ⭐ 5,212 | 🐛 46 | 🌐 C++ | 📅 2026-08-20 `✓ open-source`.
 * [Linux Show Player](https://www.linux-show-player.org/) - Free cue player designed for stage productions. [Source Code](https://github.com/FrancescoCeruti/linux-show-player) ⭐ 305 | 🐛 83 | 🌐 Python | 📅 2026-08-08 `✓ open-source`.
 * [Audacity](https://www.audacityteam.org/) - Audio file editor and analysis tool, great for cropping down sound effects and music tracks. `✓ open-source`.
 * [da-Share MultiPlay](https://www.da-share.com/software/multiplay/) - MultiPlay is a Windows based program designed to play audio cues for theatre or corporate use. It is free to use.
