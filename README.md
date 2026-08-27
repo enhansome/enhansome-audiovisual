@@ -36,8 +36,8 @@ Want to add something? Just make a pull request, but be sure to follow the [cont
 
 ### Lighting Software
 
-* [QLC+](https://www.qlcplus.org/) - QLC+ is a free and cross-platform software to control DMX or analog lighting systems like moving heads, dimmers, scanners etc. [Source Code](https://github.com/mcallegari/qlcplus) ⭐ 1,510 | 🐛 57 | 🌐 C++ | 📅 2026-08-25 `✓ open-source`.
-* [xLights](https://xlights.org/) - Meant for home Christmas light shows but is a great way to sync lights to music on a budget. [Source Code](https://github.com/smeighan/xLights) ⭐ 746 | 🐛 48 | 🌐 C++ | 📅 2026-08-26 `✓ open-source`.
+* [QLC+](https://www.qlcplus.org/) - QLC+ is a free and cross-platform software to control DMX or analog lighting systems like moving heads, dimmers, scanners etc. [Source Code](https://github.com/mcallegari/qlcplus) ⭐ 1,510 | 🐛 56 | 🌐 C++ | 📅 2026-08-26 `✓ open-source`.
+* [xLights](https://xlights.org/) - Meant for home Christmas light shows but is a great way to sync lights to music on a budget. [Source Code](https://github.com/smeighan/xLights) ⭐ 746 | 🐛 50 | 🌐 C++ | 📅 2026-08-27 `✓ open-source`.
 * [Avolites Titan](https://www.avolites.com/software/downloads/titan-pc-suite) - PC version of the Titan software which runs on the Avolites desk. Free to use until version 11.4 although it spits out random data once in a while. Requires a dongle from version 12. `⚠ not free`.
 * [Chamsys MagicQ](https://chamsyslighting.com/) - MagiQ is a professional lighting software providing up to 64 Artnet universes for free. It includes powerful features like 2D/3D pixel mapping, effect generator, media server and visualizer.
 * [Daslight](https://www.daslight.com/) - DMX lighting software for PC and Mac.
@@ -63,7 +63,7 @@ Want to add something? Just make a pull request, but be sure to follow the [cont
 
 ### Audio Software
 
-* [Ardour](https://ardour.org/) - A full realtime audio recording and editing suite. [Source Code](https://github.com/Ardour/ardour) ⭐ 5,219 | 🐛 46 | 🌐 C++ | 📅 2026-08-20 `✓ open-source`.
+* [Ardour](https://ardour.org/) - A full realtime audio recording and editing suite. [Source Code](https://github.com/Ardour/ardour) ⭐ 5,226 | 🐛 46 | 🌐 C++ | 📅 2026-08-20 `✓ open-source`.
 * [Linux Show Player](https://www.linux-show-player.org/) - Free cue player designed for stage productions. [Source Code](https://github.com/FrancescoCeruti/linux-show-player) ⭐ 305 | 🐛 83 | 🌐 Python | 📅 2026-08-08 `✓ open-source`.
 * [Audacity](https://www.audacityteam.org/) - Audio file editor and analysis tool, great for cropping down sound effects and music tracks. `✓ open-source`.
 * [da-Share MultiPlay](https://www.da-share.com/software/multiplay/) - MultiPlay is a Windows based program designed to play audio cues for theatre or corporate use. It is free to use.
@@ -118,7 +118,7 @@ Timecode is a sequence of numeric codes generated at regular intervals by a timi
 
 **[`^        back to top        ^`](#Contents)**
 
-* [Open Lighting Architecture](https://www.openlighting.org/ola/) - A framework for lighting control information. Supports a range of protocols and over a dozen of USB devices. [Source Code](https://github.com/OpenLightingProject/ola) ⭐ 747 | 🐛 375 | 🌐 C++ | 📅 2026-06-18
+* [Open Lighting Architecture](https://www.openlighting.org/ola/) - A framework for lighting control information. Supports a range of protocols and over a dozen of USB devices. [Source Code](https://github.com/OpenLightingProject/ola) ⭐ 748 | 🐛 375 | 🌐 C++ | 📅 2026-06-18
 * [node-dmx](https://github.com/node-dmx/dmx) ⭐ 322 | 🐛 19 | 🌐 JavaScript | 📅 2026-05-28 - DMX controller library for Node.js. `nodejs` `✓ open-source`.
 
 ### ArtNet Libraries
@@ -154,7 +154,7 @@ See [HARDWARE.md](./HARDWARE.md).
 * [ESTA Technical Standards Program](https://tsp.esta.org/tsp/documents/published_docs.php) - Collection of technical standards in the entertainment technology industry.
 * [Geezers of Gear](https://geezersofgear.libsyn.com/) - Entertainment Production Industry veteran talking about pro-audio, lighting, staging, video + the people and companies who work in this great industry.
 * [@limelightwired](https://www.instagram.com/limelightwired/) - Lighting production community on Instagram.
-* [awesome-linuxaudio](https://github.com/nodiscc/awesome-linuxaudio) ⭐ 1,770 | 🐛 2 | 🌐 Makefile | 📅 2026-07-31 - A Awesome list with all things Linux audio.
+* [awesome-linuxaudio](https://github.com/nodiscc/awesome-linuxaudio) ⭐ 1,772 | 🐛 2 | 🌐 Makefile | 📅 2026-07-31 - A Awesome list with all things Linux audio.
 * [QLab Cookbook](https://qlab.app/cookbook/) - The cookbook is a collection of projects, examples, and experiments using a broad range of QLab programming techniques including AppleScript, OSC, external control using QLab Remote, third-party MIDI and OSC controllers, and other software.
 * [/r/lightingdesign](https://reddit.com/r/lightingdesign/) - The Reddit community for lighting designers worldwide.
 * [/r/techtheatre](https://reddit.com/r/techtheatre/) - The reddit community for all production designers and technicians!
@@ -183,4 +183,4 @@ See [HARDWARE.md](./HARDWARE.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
