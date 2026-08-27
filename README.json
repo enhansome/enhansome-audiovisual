@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 6981258,
                 "language": "C++",
-                "last_commit": "2026-08-26T20:13:42Z",
+                "last_commit": "2026-08-27T17:41:37Z",
                 "owner": "mcallegari",
                 "repo": "qlcplus",
                 "stars": 1510
@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 7885934,
                 "language": "C++",
-                "last_commit": "2026-08-27T08:08:54Z",
+                "last_commit": "2026-08-27T17:14:16Z",
                 "owner": "xLightsSequencer",
                 "repo": "xLights",
                 "stars": 746
@@ -57,10 +57,10 @@
                 "archived": false,
                 "id": 8757552,
                 "language": "C++",
-                "last_commit": "2026-08-20T03:31:40Z",
+                "last_commit": "2026-08-27T17:04:52Z",
                 "owner": "Ardour",
                 "repo": "ardour",
-                "stars": 5226
+                "stars": 5228
               }
             },
             {
@@ -337,7 +337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:22:22.832Z",
+    "last_updated": "2026-08-27T20:47:18.094Z",
     "original_repository_info": {
       "archived": false,
       "id": 255854661,
@@ -345,7 +345,7 @@
       "last_commit": "2026-07-21T21:01:32Z",
       "owner": "stingalleman",
       "repo": "awesome-audiovisual",
-      "stars": 267
+      "stars": 268
     },
     "original_repository_sha": "84cb175d4d7d54149fbc42932e6b243a603b47d3",
     "enhanced_repository": "enhansome/enhansome-audiovisual",
