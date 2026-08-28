@@ -17,8 +17,9 @@
                 "last_commit": "2026-08-27T17:41:37Z",
                 "owner": "mcallegari",
                 "repo": "qlcplus",
-                "stars": 1510
-              }
+                "stars": 1512
+              },
+              "first_seen": "2026-08-28T21:15:15.497Z"
             },
             {
               "node_type": "item",
@@ -29,11 +30,12 @@
                 "archived": false,
                 "id": 7885934,
                 "language": "C++",
-                "last_commit": "2026-08-27T17:14:16Z",
+                "last_commit": "2026-08-28T14:43:30Z",
                 "owner": "xLightsSequencer",
                 "repo": "xLights",
                 "stars": 746
-              }
+              },
+              "first_seen": "2026-08-28T21:15:15.497Z"
             }
           ],
           "description": null,
@@ -60,8 +62,9 @@
                 "last_commit": "2026-08-27T17:04:52Z",
                 "owner": "Ardour",
                 "repo": "ardour",
-                "stars": 5228
-              }
+                "stars": 5236
+              },
+              "first_seen": "2026-08-28T21:15:15.497Z"
             },
             {
               "node_type": "item",
@@ -76,7 +79,8 @@
                 "owner": "FrancescoCeruti",
                 "repo": "linux-show-player",
                 "stars": 305
-              }
+              },
+              "first_seen": "2026-08-28T21:15:15.497Z"
             }
           ],
           "description": null,
@@ -98,11 +102,12 @@
             "archived": false,
             "id": 351085488,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T18:17:40Z",
+            "last_commit": "2026-08-28T10:29:15Z",
             "owner": "cpvalente",
             "repo": "ontime",
             "stars": 943
-          }
+          },
+          "first_seen": "2026-08-28T21:15:15.497Z"
         },
         {
           "node_type": "item",
@@ -117,7 +122,8 @@
             "owner": "netlob",
             "repo": "livescript",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T21:15:15.497Z"
         },
         {
           "children": [
@@ -134,7 +140,8 @@
                 "owner": "MrExplode",
                 "repo": "ShowManager",
                 "stars": 63
-              }
+              },
+              "first_seen": "2026-08-28T21:15:15.497Z"
             },
             {
               "node_type": "item",
@@ -149,7 +156,8 @@
                 "owner": "lorenzofattori",
                 "repo": "M2Q-python",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T21:15:15.497Z"
             },
             {
               "node_type": "item",
@@ -164,7 +172,8 @@
                 "owner": "DimitriCroes",
                 "repo": "TCGenerator",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T21:15:15.497Z"
             },
             {
               "node_type": "item",
@@ -179,7 +188,8 @@
                 "owner": "TheGreyDiamond",
                 "repo": "Time-MIDI-sender",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T21:15:15.497Z"
             }
           ],
           "description": "Timecode is a sequence of numeric codes generated at regular intervals by a timing synchronization system. Timecode is used in video production, show control and other applications which require temporal coordination or logging of recording or actions.",
@@ -201,7 +211,8 @@
                 "owner": "x42",
                 "repo": "meters.lv2",
                 "stars": 223
-              }
+              },
+              "first_seen": "2026-08-28T21:15:15.497Z"
             },
             {
               "node_type": "item",
@@ -216,7 +227,8 @@
                 "owner": "zjstraus",
                 "repo": "AES67-WebMeter",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T21:15:15.497Z"
             }
           ],
           "description": null,
@@ -242,7 +254,8 @@
             "owner": "OpenLightingProject",
             "repo": "ola",
             "stars": 748
-          }
+          },
+          "first_seen": "2026-08-28T21:15:15.497Z"
         },
         {
           "node_type": "item",
@@ -257,7 +270,8 @@
             "owner": "node-dmx",
             "repo": "dmx",
             "stars": 322
-          }
+          },
+          "first_seen": "2026-08-28T21:15:15.497Z"
         },
         {
           "children": [
@@ -274,7 +288,8 @@
                 "owner": "hobbyquaker",
                 "repo": "artnet",
                 "stars": 126
-              }
+              },
+              "first_seen": "2026-08-28T21:15:15.497Z"
             },
             {
               "node_type": "item",
@@ -289,7 +304,8 @@
                 "owner": "cansik",
                 "repo": "artnet4j",
                 "stars": 110
-              }
+              },
+              "first_seen": "2026-08-28T21:15:15.497Z"
             }
           ],
           "description": null,
@@ -315,7 +331,8 @@
             "owner": "cbdevnet",
             "repo": "midimonster",
             "stars": 603
-          }
+          },
+          "first_seen": "2026-08-28T21:15:15.497Z"
         },
         {
           "node_type": "item",
@@ -330,14 +347,15 @@
             "owner": "BryanCrotaz",
             "repo": "blender-artnet",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T21:15:15.497Z"
         }
       ],
       "title": "Misc/other"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T20:47:18.094Z",
+    "last_updated": "2026-08-28T21:15:15.497Z",
     "original_repository_info": {
       "archived": false,
       "id": 255854661,
