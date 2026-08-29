@@ -12,12 +12,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Q Light Controller Plus (QLC+) is a free and cross-platform software to control DMX or analog lighting systems like moving heads, dimmers, scanners etc. This project is a fork of the great QLC project written by Heikki Junnila that aims to continue the QLC development and to introduce new features.",
+                "homepage": null,
                 "id": 6981258,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T17:41:37Z",
+                "open_issues": 56,
                 "owner": "mcallegari",
                 "repo": "qlcplus",
-                "stars": 1512
+                "stars": 1512,
+                "topics": [
+                  "artnet",
+                  "c-plus-plus",
+                  "dmx",
+                  "dmx512",
+                  "dmxking",
+                  "e131",
+                  "enttec",
+                  "hid",
+                  "lighting",
+                  "midi",
+                  "qml",
+                  "qt"
+                ]
               },
               "first_seen": "2026-08-28T21:15:15.497Z"
             },
@@ -28,12 +46,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "xLights is a sequencer for Lights. xLights has usb and E1.31 drivers. You can create sequences in this object oriented program. You can create playlists, schedule them, test your hardware, convert between different sequencers. ",
+                "homepage": null,
                 "id": 7885934,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-28T14:43:30Z",
+                "open_issues": 46,
                 "owner": "xLightsSequencer",
                 "repo": "xLights",
-                "stars": 746
+                "stars": 746,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:15.497Z"
             }
@@ -57,12 +80,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mirror of Ardour Source Code",
+                "homepage": "http://ardour.org",
                 "id": 8757552,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T17:04:52Z",
+                "open_issues": 46,
                 "owner": "Ardour",
                 "repo": "ardour",
-                "stars": 5236
+                "stars": 5238,
+                "topics": [
+                  "audio",
+                  "c-plus-plus",
+                  "daw",
+                  "jack",
+                  "lv2",
+                  "midi",
+                  "vst"
+                ]
               },
               "first_seen": "2026-08-28T21:15:15.497Z"
             },
@@ -73,12 +109,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Linux Show Player - Cue player designed for stage productions",
+                "homepage": "https://linux-show-player.org",
                 "id": 28962491,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-08T16:23:18Z",
+                "open_issues": 83,
                 "owner": "FrancescoCeruti",
                 "repo": "linux-show-player",
-                "stars": 305
+                "stars": 305,
+                "topics": [
+                  "audio",
+                  "control",
+                  "cue",
+                  "gstreamer",
+                  "linux",
+                  "midi",
+                  "osc",
+                  "player",
+                  "pyqt5",
+                  "python",
+                  "show",
+                  "shows",
+                  "sound",
+                  "sound-player",
+                  "stage-productions",
+                  "theater",
+                  "timecode"
+                ]
               },
               "first_seen": "2026-08-28T21:15:15.497Z"
             }
@@ -100,12 +159,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free, open-source time keeping for live events",
+            "homepage": "https://www.getontime.no",
             "id": 351085488,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T10:29:15Z",
+            "open_issues": 38,
             "owner": "cpvalente",
             "repo": "ontime",
-            "stars": 943
+            "stars": 943,
+            "topics": [
+              "entertainment",
+              "stage",
+              "stage-management",
+              "stage-timer",
+              "video"
+            ]
           },
           "first_seen": "2026-08-28T21:15:15.497Z"
         },
@@ -116,12 +186,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Insert a musical/theatre-script from Google Docs and use this for a live \"autocue\" and scroller with everyone on the site",
+            "homepage": null,
             "id": 223437671,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-11-26T15:14:17Z",
+            "open_issues": 0,
             "owner": "netlob",
             "repo": "livescript",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:15.497Z"
         },
@@ -134,12 +209,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ArtNet and LTC timecode generator.",
+                "homepage": null,
                 "id": 234750937,
                 "language": "Java",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-16T00:06:00Z",
+                "open_issues": 2,
                 "owner": "MrExplode",
                 "repo": "ShowManager",
-                "stars": 63
+                "stars": 63,
+                "topics": [
+                  "artnet",
+                  "ltc",
+                  "smpte",
+                  "timecode",
+                  "timecode-generator"
+                ]
               },
               "first_seen": "2026-08-28T21:15:15.497Z"
             },
@@ -150,12 +236,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A powerful MIDI to Chamsys Remote converter designed to trigger playbacks, cuestacks and synchronize tap to tempo with MIDI Clock",
+                "homepage": null,
                 "id": 230656250,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2021-07-17T09:55:36Z",
+                "open_issues": 9,
                 "owner": "lorenzofattori",
                 "repo": "M2Q-python",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:15.497Z"
             },
@@ -166,12 +257,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reaper time marker to MA timecode converter",
+                "homepage": "http://tcgenerator.epizy.com/",
                 "id": 255669176,
                 "language": "Tcl",
+                "license": null,
                 "last_commit": "2020-04-19T17:59:02Z",
+                "open_issues": 0,
                 "owner": "DimitriCroes",
                 "repo": "TCGenerator",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:15.497Z"
             },
@@ -182,12 +278,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sends MIDI notes according to a file. Made for use with DasLight",
+                "homepage": null,
                 "id": 256015096,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2022-12-15T21:00:27Z",
+                "open_issues": 0,
                 "owner": "TheGreyDiamond",
                 "repo": "Time-MIDI-sender",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:15.497Z"
             }
@@ -205,12 +306,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "collection of LV2 plugins for audio-level metering",
+                "homepage": "https://x42-plugins.com/x42/x42-meters",
                 "id": 12020752,
                 "language": "C",
-                "last_commit": "2026-06-10T23:04:37Z",
+                "license": "GPL-2.0",
+                "last_commit": "2026-08-28T22:46:28Z",
+                "open_issues": 16,
                 "owner": "x42",
                 "repo": "meters.lv2",
-                "stars": 223
+                "stars": 223,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:15.497Z"
             },
@@ -221,12 +327,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Server that receives an AES67 audio stream and presents a webpage with meters",
+                "homepage": null,
                 "id": 240792437,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2020-02-17T17:37:47Z",
+                "open_issues": 0,
                 "owner": "zjstraus",
                 "repo": "AES67-WebMeter",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:15.497Z"
             }
@@ -248,12 +359,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Open Lighting Architecture - The Travel Adaptor for the Lighting Industry",
+            "homepage": "https://www.openlighting.org/ola/",
             "id": 15233168,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-18T23:27:04Z",
+            "open_issues": 375,
             "owner": "OpenLightingProject",
             "repo": "ola",
-            "stars": 748
+            "stars": 748,
+            "topics": [
+              "api",
+              "artnet",
+              "c-plus-plus",
+              "cli",
+              "cpp",
+              "dmx",
+              "dmx512",
+              "dmxking",
+              "enttec",
+              "hacktoberfest",
+              "lighting",
+              "ola",
+              "protobuf",
+              "rdm",
+              "sacn",
+              "streaming-acn"
+            ]
           },
           "first_seen": "2026-08-28T21:15:15.497Z"
         },
@@ -264,12 +397,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DMX controller library for node.js",
+            "homepage": null,
             "id": 5639335,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-05-28T19:00:43Z",
+            "open_issues": 19,
             "owner": "node-dmx",
             "repo": "dmx",
-            "stars": 322
+            "stars": 322,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:15.497Z"
         },
@@ -282,12 +420,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Send ArtDMX to an Art-Net node (DMX512, Stage Lighting) 💡🎬",
+                "homepage": null,
                 "id": 23080213,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-10-02T05:41:21Z",
+                "open_issues": 6,
                 "owner": "hobbyquaker",
                 "repo": "artnet",
-                "stars": 126
+                "stars": 126,
+                "topics": [
+                  "art-net",
+                  "artnet",
+                  "dmx",
+                  "dmx512",
+                  "lighting",
+                  "node-module",
+                  "stage-lighting"
+                ]
               },
               "first_seen": "2026-08-28T21:15:15.497Z"
             },
@@ -298,12 +449,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Art-Net DMX over IP library for Java and Processing",
+                "homepage": null,
                 "id": 71836684,
                 "language": "Java",
+                "license": "GPL-3.0",
                 "last_commit": "2025-04-24T18:23:52Z",
+                "open_issues": 12,
                 "owner": "cansik",
                 "repo": "artnet4j",
-                "stars": 110
+                "stars": 110,
+                "topics": [
+                  "artnet",
+                  "dmx",
+                  "java",
+                  "light",
+                  "network",
+                  "processing",
+                  "udp"
+                ]
               },
               "first_seen": "2026-08-28T21:15:15.497Z"
             }
@@ -325,12 +489,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multi-protocol control & translation software (ArtNet, MIDI, OSC, sACN, ...)",
+            "homepage": "https://midimonster.net/",
             "id": 93693951,
             "language": "C",
+            "license": "BSD-2-Clause",
             "last_commit": "2024-06-24T15:37:50Z",
+            "open_issues": 50,
             "owner": "cbdevnet",
             "repo": "midimonster",
-            "stars": 603
+            "stars": 603,
+            "topics": [
+              "art-net",
+              "artnet",
+              "dmx512",
+              "lighting",
+              "midi",
+              "midi-controller",
+              "midi-controllers",
+              "midi-notes",
+              "music",
+              "osc",
+              "osc-messages",
+              "protocol-adapter",
+              "protocols",
+              "sacn",
+              "streaming-acn"
+            ]
           },
           "first_seen": "2026-08-28T21:15:15.497Z"
         },
@@ -341,12 +526,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Blender script to push artnet data to Evee lights",
+            "homepage": null,
             "id": 238862387,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2023-03-31T10:16:57Z",
+            "open_issues": 8,
             "owner": "BryanCrotaz",
             "repo": "blender-artnet",
-            "stars": 42
+            "stars": 42,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:15.497Z"
         }
@@ -355,15 +545,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:15:15.497Z",
+    "last_updated": "2026-08-29T04:48:19.009Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Curated list of audiovisual projects",
+      "homepage": null,
       "id": 255854661,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-07-21T21:01:32Z",
+      "open_issues": 2,
       "owner": "stingalleman",
       "repo": "awesome-audiovisual",
-      "stars": 268
+      "stars": 268,
+      "topics": [
+        "audio-processing",
+        "audiovisual",
+        "awesome",
+        "awesome-list",
+        "dmx",
+        "video-processing"
+      ]
     },
     "original_repository_sha": "84cb175d4d7d54149fbc42932e6b243a603b47d3",
     "enhanced_repository": "enhansome/enhansome-audiovisual",

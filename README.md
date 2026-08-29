@@ -2,7 +2,7 @@
 
 > Curated list of software, libraries and resources for lighting, video and audio professionals and hobbyists.
 
-Want to add something? Just make a pull request, but be sure to follow the [contributing guidelines](./contributing.md)! Question? Ask it in the [General Discussion issue](https://github.com/stingalleman/awesome-audiovisual/issues/2) ⭐ 268 | 🐛 1 | 📅 2026-07-21.
+Want to add something? Just make a pull request, but be sure to follow the [contributing guidelines](./contributing.md)! Question? Ask it in the [General Discussion issue](https://github.com/stingalleman/awesome-audiovisual/issues/2) ⭐ 268 | 🐛 2 | 📅 2026-07-21.
 
 ## Contents
 
@@ -63,7 +63,7 @@ Want to add something? Just make a pull request, but be sure to follow the [cont
 
 ### Audio Software
 
-* [Ardour](https://ardour.org/) - A full realtime audio recording and editing suite. [Source Code](https://github.com/Ardour/ardour) ⭐ 5,236 | 🐛 46 | 🌐 C++ | 📅 2026-08-27 `✓ open-source`.
+* [Ardour](https://ardour.org/) - A full realtime audio recording and editing suite. [Source Code](https://github.com/Ardour/ardour) ⭐ 5,238 | 🐛 46 | 🌐 C++ | 📅 2026-08-27 `✓ open-source`.
 * [Linux Show Player](https://www.linux-show-player.org/) - Free cue player designed for stage productions. [Source Code](https://github.com/FrancescoCeruti/linux-show-player) ⭐ 305 | 🐛 83 | 🌐 Python | 📅 2026-08-08 `✓ open-source`.
 * [Audacity](https://www.audacityteam.org/) - Audio file editor and analysis tool, great for cropping down sound effects and music tracks. `✓ open-source`.
 * [da-Share MultiPlay](https://www.da-share.com/software/multiplay/) - MultiPlay is a Windows based program designed to play audio cues for theatre or corporate use. It is free to use.
@@ -110,7 +110,7 @@ Timecode is a sequence of numeric codes generated at regular intervals by a timi
 
 ### Monitoring
 
-* [meters.lv2](https://github.com/x42/meters.lv2) ⭐ 223 | 🐛 16 | 🌐 C | 📅 2026-06-10 - meters.lv2 is a collection of audio-level meters with GUI in LV2 plugin format. `✓ open-source`.
+* [meters.lv2](https://github.com/x42/meters.lv2) ⭐ 223 | 🐛 16 | 🌐 C | 📅 2026-08-28 - meters.lv2 is a collection of audio-level meters with GUI in LV2 plugin format. `✓ open-source`.
 * [AES67 WebMeter](https://github.com/zjstraus/AES67-WebMeter) ⭐ 12 | 🐛 0 | 🌐 Go | 📅 2020-02-17 - Server that receives an AES67 audio stream and presents a webpage with meters. `✓ open-source`.
 * [Open Sound Meter](https://opensoundmeter.com/) - Clean, open-source sound meter. Supports RTA, magnitude, phase and impulse response, coherence, group delay and more. `✓ open-source`.
 
@@ -154,7 +154,7 @@ See [HARDWARE.md](./HARDWARE.md).
 * [ESTA Technical Standards Program](https://tsp.esta.org/tsp/documents/published_docs.php) - Collection of technical standards in the entertainment technology industry.
 * [Geezers of Gear](https://geezersofgear.libsyn.com/) - Entertainment Production Industry veteran talking about pro-audio, lighting, staging, video + the people and companies who work in this great industry.
 * [@limelightwired](https://www.instagram.com/limelightwired/) - Lighting production community on Instagram.
-* [awesome-linuxaudio](https://github.com/nodiscc/awesome-linuxaudio) ⭐ 1,774 | 🐛 2 | 🌐 Makefile | 📅 2026-07-31 - A Awesome list with all things Linux audio.
+* [awesome-linuxaudio](https://github.com/nodiscc/awesome-linuxaudio) ⭐ 1,775 | 🐛 2 | 🌐 Makefile | 📅 2026-07-31 - A Awesome list with all things Linux audio.
 * [QLab Cookbook](https://qlab.app/cookbook/) - The cookbook is a collection of projects, examples, and experiments using a broad range of QLab programming techniques including AppleScript, OSC, external control using QLab Remote, third-party MIDI and OSC controllers, and other software.
 * [/r/lightingdesign](https://reddit.com/r/lightingdesign/) - The Reddit community for lighting designers worldwide.
 * [/r/techtheatre](https://reddit.com/r/techtheatre/) - The reddit community for all production designers and technicians!
@@ -183,4 +183,4 @@ See [HARDWARE.md](./HARDWARE.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
