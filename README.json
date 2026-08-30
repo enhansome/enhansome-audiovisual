@@ -17,11 +17,11 @@
                 "id": 6981258,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-27T17:41:37Z",
+                "last_commit": "2026-08-30T10:59:27Z",
                 "open_issues": 57,
                 "owner": "mcallegari",
                 "repo": "qlcplus",
-                "stars": 1513,
+                "stars": 1514,
                 "topics": [
                   "artnet",
                   "c-plus-plus",
@@ -51,8 +51,8 @@
                 "id": 7885934,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-29T05:36:41Z",
-                "open_issues": 47,
+                "last_commit": "2026-08-30T13:57:05Z",
+                "open_issues": 48,
                 "owner": "xLightsSequencer",
                 "repo": "xLights",
                 "stars": 746,
@@ -89,7 +89,7 @@
                 "open_issues": 46,
                 "owner": "Ardour",
                 "repo": "ardour",
-                "stars": 5239,
+                "stars": 5240,
                 "topics": [
                   "audio",
                   "c-plus-plus",
@@ -164,8 +164,8 @@
             "id": 351085488,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-29T14:03:45Z",
-            "open_issues": 39,
+            "last_commit": "2026-08-30T12:51:50Z",
+            "open_issues": 42,
             "owner": "cpvalente",
             "repo": "ontime",
             "stars": 943,
@@ -545,7 +545,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T15:20:22.168Z",
+    "last_updated": "2026-08-30T15:02:12.393Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of audiovisual projects",
