@@ -21,7 +21,7 @@
                 "open_issues": 75,
                 "owner": "mcallegari",
                 "repo": "qlcplus",
-                "stars": 1526,
+                "stars": 1527,
                 "topics": [
                   "artnet",
                   "c-plus-plus",
@@ -51,8 +51,8 @@
                 "id": 7885934,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-08T14:42:43Z",
-                "open_issues": 46,
+                "last_commit": "2026-09-09T05:47:12Z",
+                "open_issues": 48,
                 "owner": "xLightsSequencer",
                 "repo": "xLights",
                 "stars": 748,
@@ -85,11 +85,11 @@
                 "id": 8757552,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-08T13:10:37Z",
+                "last_commit": "2026-09-08T21:15:57Z",
                 "open_issues": 47,
                 "owner": "Ardour",
                 "repo": "ardour",
-                "stars": 5267,
+                "stars": 5273,
                 "topics": [
                   "audio",
                   "c-plus-plus",
@@ -164,8 +164,8 @@
             "id": 351085488,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-06T19:58:43Z",
-            "open_issues": 39,
+            "last_commit": "2026-09-09T11:28:40Z",
+            "open_issues": 40,
             "owner": "cpvalente",
             "repo": "ontime",
             "stars": 947,
@@ -498,7 +498,7 @@
             "open_issues": 50,
             "owner": "cbdevnet",
             "repo": "midimonster",
-            "stars": 603,
+            "stars": 604,
             "topics": [
               "art-net",
               "artnet",
@@ -545,7 +545,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T14:46:59.953Z",
+    "last_updated": "2026-09-09T14:48:48.919Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of audiovisual projects",
