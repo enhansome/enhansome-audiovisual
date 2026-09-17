@@ -36,8 +36,8 @@ Want to add something? Just make a pull request, but be sure to follow the [cont
 
 ### Lighting Software
 
-* [QLC+](https://www.qlcplus.org/) - QLC+ is a free and cross-platform software to control DMX or analog lighting systems like moving heads, dimmers, scanners etc. [Source Code](https://github.com/mcallegari/qlcplus) ⭐ 1,532 | 🐛 80 | 🌐 C++ | 📅 2026-09-15 `✓ open-source`.
-* [xLights](https://xlights.org/) - Meant for home Christmas light shows but is a great way to sync lights to music on a budget. [Source Code](https://github.com/smeighan/xLights) ⭐ 748 | 🐛 47 | 🌐 C++ | 📅 2026-09-16 `✓ open-source`.
+* [QLC+](https://www.qlcplus.org/) - QLC+ is a free and cross-platform software to control DMX or analog lighting systems like moving heads, dimmers, scanners etc. [Source Code](https://github.com/mcallegari/qlcplus) ⭐ 1,534 | 🐛 80 | 🌐 C++ | 📅 2026-09-15 `✓ open-source`.
+* [xLights](https://xlights.org/) - Meant for home Christmas light shows but is a great way to sync lights to music on a budget. [Source Code](https://github.com/smeighan/xLights) ⭐ 748 | 🐛 47 | 🌐 C++ | 📅 2026-09-17 `✓ open-source`.
 * [Avolites Titan](https://www.avolites.com/software/downloads/titan-pc-suite) - PC version of the Titan software which runs on the Avolites desk. Free to use until version 11.4 although it spits out random data once in a while. Requires a dongle from version 12. `⚠ not free`.
 * [Chamsys MagicQ](https://chamsyslighting.com/) - MagiQ is a professional lighting software providing up to 64 Artnet universes for free. It includes powerful features like 2D/3D pixel mapping, effect generator, media server and visualizer.
 * [Daslight](https://www.daslight.com/) - DMX lighting software for PC and Mac.
@@ -63,8 +63,8 @@ Want to add something? Just make a pull request, but be sure to follow the [cont
 
 ### Audio Software
 
-* [Ardour](https://ardour.org/) - A full realtime audio recording and editing suite. [Source Code](https://github.com/Ardour/ardour) ⭐ 5,287 | 🐛 49 | 🌐 C++ | 📅 2026-09-16 `✓ open-source`.
-* [Linux Show Player](https://www.linux-show-player.org/) - Free cue player designed for stage productions. [Source Code](https://github.com/FrancescoCeruti/linux-show-player) ⭐ 308 | 🐛 88 | 🌐 Python | 📅 2026-09-12 `✓ open-source`.
+* [Ardour](https://ardour.org/) - A full realtime audio recording and editing suite. [Source Code](https://github.com/Ardour/ardour) ⭐ 5,287 | 🐛 49 | 🌐 C++ | 📅 2026-09-17 `✓ open-source`.
+* [Linux Show Player](https://www.linux-show-player.org/) - Free cue player designed for stage productions. [Source Code](https://github.com/FrancescoCeruti/linux-show-player) ⭐ 309 | 🐛 88 | 🌐 Python | 📅 2026-09-12 `✓ open-source`.
 * [Audacity](https://www.audacityteam.org/) - Audio file editor and analysis tool, great for cropping down sound effects and music tracks. `✓ open-source`.
 * [da-Share MultiPlay](https://www.da-share.com/software/multiplay/) - MultiPlay is a Windows based program designed to play audio cues for theatre or corporate use. It is free to use.
 * [QLab](https://qlab.app/) - QLab is sound, video, and lighting control for macOS. `⚠ freemium`.
@@ -80,7 +80,7 @@ Want to add something? Just make a pull request, but be sure to follow the [cont
 
 **[`^        back to top        ^`](#Contents)**
 
-See [ebu/awesome-broadcasting](https://github.com/ebu/awesome-broadcasting#readme) ⭐ 1,774 | 🐛 15 | 📅 2026-04-29.
+See [ebu/awesome-broadcasting](https://github.com/ebu/awesome-broadcasting#readme) ⭐ 1,775 | 🐛 15 | 📅 2026-04-29.
 
 ## Tools
 
@@ -101,7 +101,7 @@ See [ebu/awesome-broadcasting](https://github.com/ebu/awesome-broadcasting#readm
 
 Timecode is a sequence of numeric codes generated at regular intervals by a timing synchronization system. Timecode is used in video production, show control and other applications which require temporal coordination or logging of recording or actions.
 
-* [Timecode](https://github.com/MrExplode/Timecode) ⭐ 63 | 🐛 2 | 🌐 Java | 📅 2026-09-16 - ArtNet and LTC timecode generator, made with Java. `✓ open-source`.
+* [Timecode](https://github.com/MrExplode/Timecode) ⭐ 63 | 🐛 2 | 🌐 Java | 📅 2026-09-17 - ArtNet and LTC timecode generator, made with Java. `✓ open-source`.
 * [M2Q](https://github.com/lorenzofattori/M2Q) ⭐ 16 | 🐛 9 | 🌐 Python | 📅 2021-07-17 - Python application capable to trigger Chamsys Consoles/Software via MIDI for advanced synchronized shows. `✓ open-source`.
 * [TCgenerator](https://github.com/dimitriCGNL/TCGenerator) ⭐ 4 | 🐛 0 | 🌐 Tcl | 📅 2020-04-19 - Reaper time marker to GrandMA2 TC Generator. `✓ open-source`.
 * [Time MIDI sender](https://github.com/TheGreyDiamond/Time-MIDI-sender) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2022-12-15 - A free tool for sending time data to DasLight (via MIDI). `✓ open-source`.
@@ -183,4 +183,4 @@ See [HARDWARE.md](./HARDWARE.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
