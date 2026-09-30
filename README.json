@@ -52,7 +52,7 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-29T05:43:15Z",
-                "open_issues": 44,
+                "open_issues": 49,
                 "owner": "xLightsSequencer",
                 "repo": "xLights",
                 "stars": 749,
@@ -85,11 +85,11 @@
                 "id": 8757552,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-29T08:17:37Z",
+                "last_commit": "2026-09-29T23:51:31Z",
                 "open_issues": 52,
                 "owner": "Ardour",
                 "repo": "ardour",
-                "stars": 5306,
+                "stars": 5307,
                 "topics": [
                   "audio",
                   "c-plus-plus",
@@ -165,10 +165,10 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-09-29T16:23:02Z",
-            "open_issues": 38,
+            "open_issues": 40,
             "owner": "cpvalente",
             "repo": "ontime",
-            "stars": 958,
+            "stars": 959,
             "topics": [
               "entertainment",
               "stage",
@@ -545,7 +545,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T16:38:52.141Z",
+    "last_updated": "2026-09-30T16:31:02.412Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of audiovisual projects",
