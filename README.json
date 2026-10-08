@@ -18,7 +18,7 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-06T17:43:03Z",
-                "open_issues": 76,
+                "open_issues": 77,
                 "owner": "mcallegari",
                 "repo": "qlcplus",
                 "stars": 1548,
@@ -51,8 +51,8 @@
                 "id": 7885934,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-07T16:42:54Z",
-                "open_issues": 45,
+                "last_commit": "2026-10-08T05:50:16Z",
+                "open_issues": 44,
                 "owner": "xLightsSequencer",
                 "repo": "xLights",
                 "stars": 750,
@@ -89,7 +89,7 @@
                 "open_issues": 51,
                 "owner": "Ardour",
                 "repo": "ardour",
-                "stars": 5324,
+                "stars": 5326,
                 "topics": [
                   "audio",
                   "c-plus-plus",
@@ -545,7 +545,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T17:33:05.707Z",
+    "last_updated": "2026-10-08T17:36:17.848Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of audiovisual projects",
@@ -557,7 +557,7 @@
       "open_issues": 4,
       "owner": "stingalleman",
       "repo": "awesome-audiovisual",
-      "stars": 270,
+      "stars": 271,
       "topics": [
         "audio-processing",
         "audiovisual",
