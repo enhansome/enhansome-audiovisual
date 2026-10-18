@@ -17,11 +17,11 @@
                 "id": 6981258,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-17T11:46:15Z",
-                "open_issues": 93,
+                "last_commit": "2026-10-18T13:08:30Z",
+                "open_issues": 99,
                 "owner": "mcallegari",
                 "repo": "qlcplus",
-                "stars": 1558,
+                "stars": 1560,
                 "topics": [
                   "artnet",
                   "c-plus-plus",
@@ -51,11 +51,11 @@
                 "id": 7885934,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-17T13:24:29Z",
-                "open_issues": 48,
+                "last_commit": "2026-10-18T05:47:45Z",
+                "open_issues": 47,
                 "owner": "xLightsSequencer",
                 "repo": "xLights",
-                "stars": 753,
+                "stars": 754,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:15.497Z"
@@ -85,11 +85,11 @@
                 "id": 8757552,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-16T09:38:16Z",
+                "last_commit": "2026-10-18T12:19:05Z",
                 "open_issues": 52,
                 "owner": "Ardour",
                 "repo": "ardour",
-                "stars": 5352,
+                "stars": 5355,
                 "topics": [
                   "audio",
                   "c-plus-plus",
@@ -164,8 +164,8 @@
             "id": 351085488,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-17T12:50:59Z",
-            "open_issues": 43,
+            "last_commit": "2026-10-18T14:05:43Z",
+            "open_issues": 41,
             "owner": "cpvalente",
             "repo": "ontime",
             "stars": 965,
@@ -368,7 +368,7 @@
             "open_issues": 384,
             "owner": "OpenLightingProject",
             "repo": "ola",
-            "stars": 760,
+            "stars": 762,
             "topics": [
               "api",
               "artnet",
@@ -545,7 +545,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T13:57:12.049Z",
+    "last_updated": "2026-10-18T14:09:52.264Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of audiovisual projects",
