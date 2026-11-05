@@ -17,11 +17,11 @@
                 "id": 6981258,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-04T17:31:00Z",
-                "open_issues": 79,
+                "last_commit": "2026-11-05T13:12:07Z",
+                "open_issues": 80,
                 "owner": "mcallegari",
                 "repo": "qlcplus",
-                "stars": 1571,
+                "stars": 1573,
                 "topics": [
                   "artnet",
                   "c-plus-plus",
@@ -33,8 +33,11 @@
                   "hid",
                   "lighting",
                   "midi",
+                  "os2l",
+                  "osc",
                   "qml",
-                  "qt"
+                  "qt",
+                  "sacn"
                 ]
               },
               "first_seen": "2026-08-28T21:15:15.497Z"
@@ -51,7 +54,7 @@
                 "id": 7885934,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-04T17:38:55Z",
+                "last_commit": "2026-11-05T17:27:52Z",
                 "open_issues": 60,
                 "owner": "xLightsSequencer",
                 "repo": "xLights",
@@ -85,11 +88,11 @@
                 "id": 8757552,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-03T21:07:54Z",
+                "last_commit": "2026-11-05T14:50:18Z",
                 "open_issues": 49,
                 "owner": "Ardour",
                 "repo": "ardour",
-                "stars": 5406,
+                "stars": 5410,
                 "topics": [
                   "audio",
                   "c-plus-plus",
@@ -214,7 +217,7 @@
                 "id": 234750937,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-03T05:09:39Z",
+                "last_commit": "2026-11-05T16:12:57Z",
                 "open_issues": 6,
                 "owner": "MrExplode",
                 "repo": "ShowManager",
@@ -368,7 +371,7 @@
             "open_issues": 384,
             "owner": "OpenLightingProject",
             "repo": "ola",
-            "stars": 766,
+            "stars": 767,
             "topics": [
               "api",
               "artnet",
@@ -545,7 +548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T18:14:48.764Z",
+    "last_updated": "2026-11-05T18:17:08.649Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of audiovisual projects",
