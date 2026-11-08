@@ -36,8 +36,8 @@ Want to add something? Just make a pull request, but be sure to follow the [cont
 
 ### Lighting Software
 
-* [QLC+](https://www.qlcplus.org/) - QLC+ is a free and cross-platform software to control DMX or analog lighting systems like moving heads, dimmers, scanners etc. [Source Code](https://github.com/mcallegari/qlcplus) ⭐ 1,574 | 🐛 84 | 🌐 C++ | 📅 2026-11-07 `✓ open-source`.
-* [xLights](https://xlights.org/) - Meant for home Christmas light shows but is a great way to sync lights to music on a budget. [Source Code](https://github.com/smeighan/xLights) ⭐ 762 | 🐛 56 | 🌐 C++ | 📅 2026-11-07 `✓ open-source`.
+* [QLC+](https://www.qlcplus.org/) - QLC+ is a free and cross-platform software to control DMX or analog lighting systems like moving heads, dimmers, scanners etc. [Source Code](https://github.com/mcallegari/qlcplus) ⭐ 1,574 | 🐛 85 | 🌐 C++ | 📅 2026-11-08 `✓ open-source`.
+* [xLights](https://xlights.org/) - Meant for home Christmas light shows but is a great way to sync lights to music on a budget. [Source Code](https://github.com/smeighan/xLights) ⭐ 762 | 🐛 58 | 🌐 C++ | 📅 2026-11-08 `✓ open-source`.
 * [Avolites Titan](https://www.avolites.com/software/downloads/titan-pc-suite) - PC version of the Titan software which runs on the Avolites desk. Free to use until version 11.4 although it spits out random data once in a while. Requires a dongle from version 12. `⚠ not free`.
 * [Chamsys MagicQ](https://chamsyslighting.com/) - MagiQ is a professional lighting software providing up to 64 Artnet universes for free. It includes powerful features like 2D/3D pixel mapping, effect generator, media server and visualizer.
 * [Daslight](https://www.daslight.com/) - DMX lighting software for PC and Mac.
@@ -63,7 +63,7 @@ Want to add something? Just make a pull request, but be sure to follow the [cont
 
 ### Audio Software
 
-* [Ardour](https://ardour.org/) - A full realtime audio recording and editing suite. [Source Code](https://github.com/Ardour/ardour) ⭐ 5,413 | 🐛 48 | 🌐 C++ | 📅 2026-11-07 `✓ open-source`.
+* [Ardour](https://ardour.org/) - A full realtime audio recording and editing suite. [Source Code](https://github.com/Ardour/ardour) ⭐ 5,414 | 🐛 49 | 🌐 C++ | 📅 2026-11-08 `✓ open-source`.
 * [Linux Show Player](https://www.linux-show-player.org/) - Free cue player designed for stage productions. [Source Code](https://github.com/FrancescoCeruti/linux-show-player) ⭐ 310 | 🐛 89 | 🌐 Python | 📅 2026-10-24 `✓ open-source`.
 * [Audacity](https://www.audacityteam.org/) - Audio file editor and analysis tool, great for cropping down sound effects and music tracks. `✓ open-source`.
 * [da-Share MultiPlay](https://www.da-share.com/software/multiplay/) - MultiPlay is a Windows based program designed to play audio cues for theatre or corporate use. It is free to use.
@@ -80,7 +80,7 @@ Want to add something? Just make a pull request, but be sure to follow the [cont
 
 **[`^        back to top        ^`](#Contents)**
 
-See [ebu/awesome-broadcasting](https://github.com/ebu/awesome-broadcasting#readme) ⭐ 1,797 | 🐛 25 | 📅 2026-09-30.
+See [ebu/awesome-broadcasting](https://github.com/ebu/awesome-broadcasting#readme) ⭐ 1,797 | 🐛 27 | 📅 2026-09-30.
 
 ## Tools
 
@@ -118,7 +118,7 @@ Timecode is a sequence of numeric codes generated at regular intervals by a timi
 
 **[`^        back to top        ^`](#Contents)**
 
-* [Open Lighting Architecture](https://www.openlighting.org/ola/) - A framework for lighting control information. Supports a range of protocols and over a dozen of USB devices. [Source Code](https://github.com/OpenLightingProject/ola) ⭐ 768 | 🐛 384 | 🌐 C++ | 📅 2026-10-14
+* [Open Lighting Architecture](https://www.openlighting.org/ola/) - A framework for lighting control information. Supports a range of protocols and over a dozen of USB devices. [Source Code](https://github.com/OpenLightingProject/ola) ⭐ 769 | 🐛 384 | 🌐 C++ | 📅 2026-10-14
 * [node-dmx](https://github.com/node-dmx/dmx) ⭐ 323 | 🐛 19 | 🌐 JavaScript | 📅 2026-05-28 - DMX controller library for Node.js. `nodejs` `✓ open-source`.
 
 ### ArtNet Libraries
@@ -183,4 +183,4 @@ See [HARDWARE.md](./HARDWARE.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
